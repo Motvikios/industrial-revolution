@@ -1,0 +1,8 @@
+name: "industrial-revolution"
+displayName: "industrial revolution"
+author: Motvikios and Philinle
+description: "test mod"
+version: "1.0"
+minGameVersion: "146"
+dependencies: ["multi-crafter"]
+hidden: false
